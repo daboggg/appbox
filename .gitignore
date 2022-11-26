@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+venv
+.idea
+appbox/settings_local.py
+media
+db.sqlite3
+mondiv/migrations
